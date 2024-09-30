@@ -1,3 +1,3 @@
-# favourite_places_app
+# Favourite Places App
 
-A new Flutter project.
+From: Flutter & Dart - The Complete Guide [2023 Edition]
